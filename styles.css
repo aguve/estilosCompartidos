@@ -1,0 +1,32 @@
+  p {
+    color: greenyellow;
+    text-align: center;
+
+  }
+
+  #rojo {
+    color: red;
+  }
+
+
+  h1 {
+    background-color: black;
+    color: greenyellow;
+    padding: 10px;
+    margin: 0;
+  }
+
+  h2 {
+    background-color: black;
+    color: greenyellow;
+    padding: 10px;
+    margin: 0;
+  }
+
+  .amarillo {
+    color: yellow;
+  }
+
+  #blau {
+    color: blue;
+  }
