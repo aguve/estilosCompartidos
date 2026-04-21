@@ -1,32 +1,18 @@
-  p {
-    color: greenyellow;
-    text-align: center;
+* {
+  color: greenyellow;
+  background: grey
+}
 
-  }
+h1 {
+  padding: 10px;
+  background-color: black;
+  margin: 0;
 
-  #rojo {
-    color: red;
-  }
+}
 
+img {
+  width: 40%;
+  border-radius: 7%;
+  border: 2px solid greenyellow;
 
-  h1 {
-    background-color: black;
-    color: greenyellow;
-    padding: 10px;
-    margin: 0;
-  }
-
-  h2 {
-    background-color: black;
-    color: greenyellow;
-    padding: 10px;
-    margin: 0;
-  }
-
-  .amarillo {
-    color: yellow;
-  }
-
-  #blau {
-    color: blue;
-  }
+}
