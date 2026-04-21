@@ -14,3 +14,10 @@ img {
   border-radius: 7%;
   border: 2px solid greenyellow;
 }
+
+a:link {
+  text-align: center;
+  text-decoration: none;
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
