@@ -1,7 +1,8 @@
 body {
   font-family: arial, sans-serif;
   color: black;
-  background-color: rgb(236, 227, 195);
+  /* background-color: rgb(236, 227, 195);*/
+  background-image: url("../img/masia restaurante.jpg");
 }
 
 h1 {
